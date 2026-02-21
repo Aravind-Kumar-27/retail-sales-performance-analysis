@@ -82,7 +82,9 @@ KPI Dashboard Development
 
 Business Performance Analysis
 
-Git & GitHub for version control
+Git
+
+GitHub
 
 📁 Dataset
 
