@@ -13,7 +13,7 @@ This project demonstrates the ability to transform raw retail data into a **stru
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard-preview.png" width="900" alt="Dashboard Preview"/>
+  <img src="images/dashboard-overview.png" width="900"/> alt="Dashboard Preview"/>
 </p>
 
 <p align="center">
