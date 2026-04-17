@@ -151,7 +151,7 @@ This analysis enables:
 |------------|------------|
 | retail-sales-data.xlsx | Dataset |
 | README.md | Project documentation |
-| images/dashboard-preview.png | Dashboard preview |
+| images/dashboard-overview.png | Dashboard preview |
 
 ---
 
